@@ -1,4 +1,4 @@
-package com.example.textrepeaterapp.ui.theme
+package com.example.textrepeaterapp.core.utils
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
