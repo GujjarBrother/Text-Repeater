@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">Text Repeater App</string>
+    <string name="text_repeater_text">Text Repeater</string>
+    <string name="quickly_repeat_any_text_many_times_text">Quickly repeat any text many times.</string>
+    <string name="home_screen_text_repeater_description_text">Type text once and repeat it as\nmany times as you want.</string>
+    <string name="repeat_text_text">Repeat Text</string>
+    <string name="quick_replies_text">Quick Replies</string>
+    <string name="send_repeated_texts_fast_text">Send repeated texts fast</string>
+    <string name="saved_text_text">Saved Text</string>
+    <string name="access_saved_messages_text">Access saved messages</string>
+    <string name="recent_repetitions_text">Recent Repetitions</string>
+    <string name="recently_repeated_messages_text">Recently repeated messages</string>
+    <string name="language_text">Language</string>
+    <string name="share_image">Share</string>
+    <string name="rate_us_text">Rate Us</string>
+    <string name="feedback_text">Feedback</string>
+    <string name="privacy_policy_text">Privacy Policy</string>
+    <string name="version_text">Version</string>
+    <string name="english_text" translatable="false">English</string>
+    <string name="type_text_text">Type Text</string>
+    <string name="type_text_here_text">Type text here…</string>
+    <string name="repeat_count_text">Repeat Count</string>
+    <string name="enter_repeat_count_here_text">Enter repeat count here…</string>
+    <string name="change_style_text">Change Style</string>
+    <string name="max_limit_is_2000_text">Max limit is 2000</string>
+    <string name="limit_exceeds_text">Limit exceeds</string>
+    <string name="style_text">Style</string>
+    <string name="new_line_text">New Line</string>
+    <string name="first_style_emoji" translatable="false">😘💕</string>
+    <string name="second_style_emoji" translatable="false">🌟</string>
+    <string name="third_style_emoji" translatable="false">✨😊</string>
+    <string name="fourth_style_emoji" translatable="false">💪💖</string>
+    <string name="fifth_style_emoji" translatable="false">🌈</string>
+    <string name="sixth_style_emoji" translatable="false">☀️💛</string>
+    <string name="first_style_text">Hello World😘💕</string>
+    <string name="second_style_text">🌟Hello World🌟</string>
+    <string name="third_style_text">✨😊Hello World✨😊</string>
+    <string name="fourth_style_text">💪💖Hello World💪💖</string>
+    <string name="fifth_style_text">🌈Hello World🌈</string>
+    <string name="sixth_style_text">☀️💛Hello World☀️💛</string>
+    <string name="copy_text">Copy</string>
+    <string name="send_text">Send</string>
+    <string name="text_copied_successfully_text">Text copied successfully!</string>
+    <string name="share_toast_text">There is no app/activity available to handle this action</string>
+    <string name="saved_successfully_text">Saved Successfully!</string>
+    <string name="not_saved_successfully_text">Not Saved Successfully!</string>
 </resources>
